@@ -1,0 +1,240 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Autofac/6.2.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Diagnostics.DiagnosticSource": "4.7.1"
+        },
+        "compile": {
+          "lib/netstandard2.1/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {}
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/4.7.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
+        }
+      },
+      "demo.cache/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "demo.core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/demo.cache.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/demo.cache.dll": {}
+        }
+      },
+      "demo.core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/demo.core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/demo.core.dll": {}
+        }
+      },
+      "demo.rabbitmq/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "demo.core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/demo.rabbitmq.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/demo.rabbitmq.dll": {}
+        }
+      },
+      "demo.store/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "demo.core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/demo.store.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/demo.store.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Autofac/6.2.0": {
+      "sha512": "BX8IM0GANE38uSr4QwXL4PgA8vWWYt2P5cZzipn/vDnf0fDbPSGKSHEroJ09rB7ANxdyf7MdEgVs+pvL8kwYCg==",
+      "type": "package",
+      "path": "autofac/6.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.6.2.0.nupkg.sha512",
+        "autofac.nuspec",
+        "icon.png",
+        "lib/net5.0/Autofac.dll",
+        "lib/net5.0/Autofac.pdb",
+        "lib/net5.0/Autofac.xml",
+        "lib/netstandard2.0/Autofac.dll",
+        "lib/netstandard2.0/Autofac.pdb",
+        "lib/netstandard2.0/Autofac.xml",
+        "lib/netstandard2.1/Autofac.dll",
+        "lib/netstandard2.1/Autofac.pdb",
+        "lib/netstandard2.1/Autofac.xml"
+      ]
+    },
+    "System.Diagnostics.DiagnosticSource/4.7.1": {
+      "sha512": "j81Lovt90PDAq8kLpaJfJKV/rWdWuEk6jfV+MBkee33vzYLEUsy4gXK8laa9V2nZlLM9VM9yA/OOQxxPEJKAMw==",
+      "type": "package",
+      "path": "system.diagnostics.diagnosticsource/4.7.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net45/System.Diagnostics.DiagnosticSource.dll",
+        "lib/net45/System.Diagnostics.DiagnosticSource.xml",
+        "lib/net46/System.Diagnostics.DiagnosticSource.dll",
+        "lib/net46/System.Diagnostics.DiagnosticSource.xml",
+        "lib/netstandard1.1/System.Diagnostics.DiagnosticSource.dll",
+        "lib/netstandard1.1/System.Diagnostics.DiagnosticSource.xml",
+        "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll",
+        "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.xml",
+        "lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.dll",
+        "lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.xml",
+        "system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+        "system.diagnostics.diagnosticsource.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "demo.cache/1.0.0": {
+      "type": "project",
+      "path": "../demo.cache/demo.cache.csproj",
+      "msbuildProject": "../demo.cache/demo.cache.csproj"
+    },
+    "demo.core/1.0.0": {
+      "type": "project",
+      "path": "../demo.core/demo.core.csproj",
+      "msbuildProject": "../demo.core/demo.core.csproj"
+    },
+    "demo.rabbitmq/1.0.0": {
+      "type": "project",
+      "path": "../demo.rabbitmq/demo.rabbitmq.csproj",
+      "msbuildProject": "../demo.rabbitmq/demo.rabbitmq.csproj"
+    },
+    "demo.store/1.0.0": {
+      "type": "project",
+      "path": "../demo.store/demo.store.csproj",
+      "msbuildProject": "../demo.store/demo.store.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Autofac >= 6.2.0",
+      "demo.cache >= 1.0.0",
+      "demo.core >= 1.0.0",
+      "demo.rabbitmq >= 1.0.0",
+      "demo.store >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\inernoro\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\proj\\dotnetcore_small_demo\\demo1\\demo.host\\demo.host.csproj",
+      "projectName": "demo.host",
+      "projectPath": "D:\\proj\\dotnetcore_small_demo\\demo1\\demo.host\\demo.host.csproj",
+      "packagesPath": "C:\\Users\\inernoro\\.nuget\\packages\\",
+      "outputPath": "D:\\proj\\dotnetcore_small_demo\\demo1\\demo.host\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\inernoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://192.168.5.4:58785/v3/index.json": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\proj\\dotnetcore_small_demo\\demo1\\demo.cache\\demo.cache.csproj": {
+              "projectPath": "D:\\proj\\dotnetcore_small_demo\\demo1\\demo.cache\\demo.cache.csproj"
+            },
+            "D:\\proj\\dotnetcore_small_demo\\demo1\\demo.core\\demo.core.csproj": {
+              "projectPath": "D:\\proj\\dotnetcore_small_demo\\demo1\\demo.core\\demo.core.csproj"
+            },
+            "D:\\proj\\dotnetcore_small_demo\\demo1\\demo.rabbitmq\\demo.rabbitmq.csproj": {
+              "projectPath": "D:\\proj\\dotnetcore_small_demo\\demo1\\demo.rabbitmq\\demo.rabbitmq.csproj"
+            },
+            "D:\\proj\\dotnetcore_small_demo\\demo1\\demo.store\\demo.store.csproj": {
+              "projectPath": "D:\\proj\\dotnetcore_small_demo\\demo1\\demo.store\\demo.store.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Autofac": {
+            "target": "Package",
+            "version": "[6.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

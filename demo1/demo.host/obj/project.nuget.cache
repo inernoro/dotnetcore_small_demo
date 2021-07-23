@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLB56kvhl+JSBQqMHzvgIGK8fp3jyKVXulOZEvCDROMvqXMQ95+BmhiELdYJByVGPFwFxdfD7H2Zq35v6UZz5A==",
+  "success": true,
+  "projectFilePath": "D:\\proj\\dotnetcore_small_demo\\demo1\\demo.host\\demo.host.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inernoro\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\inernoro\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

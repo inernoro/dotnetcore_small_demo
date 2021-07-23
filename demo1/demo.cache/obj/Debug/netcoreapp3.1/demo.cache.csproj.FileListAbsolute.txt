@@ -1,0 +1,12 @@
+D:\proj\dotnetcore_small_demo\demo1\demo.cache\bin\Debug\netcoreapp3.1\demo.cache.deps.json
+D:\proj\dotnetcore_small_demo\demo1\demo.cache\bin\Debug\netcoreapp3.1\demo.cache.dll
+D:\proj\dotnetcore_small_demo\demo1\demo.cache\bin\Debug\netcoreapp3.1\demo.cache.pdb
+D:\proj\dotnetcore_small_demo\demo1\demo.cache\bin\Debug\netcoreapp3.1\demo.core.dll
+D:\proj\dotnetcore_small_demo\demo1\demo.cache\bin\Debug\netcoreapp3.1\demo.core.pdb
+D:\proj\dotnetcore_small_demo\demo1\demo.cache\obj\Debug\netcoreapp3.1\demo.cache.csproj.AssemblyReference.cache
+D:\proj\dotnetcore_small_demo\demo1\demo.cache\obj\Debug\netcoreapp3.1\demo.cache.AssemblyInfoInputs.cache
+D:\proj\dotnetcore_small_demo\demo1\demo.cache\obj\Debug\netcoreapp3.1\demo.cache.AssemblyInfo.cs
+D:\proj\dotnetcore_small_demo\demo1\demo.cache\obj\Debug\netcoreapp3.1\demo.cache.csproj.CoreCompileInputs.cache
+D:\proj\dotnetcore_small_demo\demo1\demo.cache\obj\Debug\netcoreapp3.1\demo.cache.csproj.CopyComplete
+D:\proj\dotnetcore_small_demo\demo1\demo.cache\obj\Debug\netcoreapp3.1\demo.cache.dll
+D:\proj\dotnetcore_small_demo\demo1\demo.cache\obj\Debug\netcoreapp3.1\demo.cache.pdb

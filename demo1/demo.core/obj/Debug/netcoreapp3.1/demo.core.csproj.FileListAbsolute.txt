@@ -1,0 +1,9 @@
+D:\proj\dotnetcore_small_demo\demo1\demo.core\bin\Debug\netcoreapp3.1\demo.core.deps.json
+D:\proj\dotnetcore_small_demo\demo1\demo.core\bin\Debug\netcoreapp3.1\demo.core.dll
+D:\proj\dotnetcore_small_demo\demo1\demo.core\bin\Debug\netcoreapp3.1\demo.core.pdb
+D:\proj\dotnetcore_small_demo\demo1\demo.core\obj\Debug\netcoreapp3.1\demo.core.csproj.AssemblyReference.cache
+D:\proj\dotnetcore_small_demo\demo1\demo.core\obj\Debug\netcoreapp3.1\demo.core.AssemblyInfoInputs.cache
+D:\proj\dotnetcore_small_demo\demo1\demo.core\obj\Debug\netcoreapp3.1\demo.core.AssemblyInfo.cs
+D:\proj\dotnetcore_small_demo\demo1\demo.core\obj\Debug\netcoreapp3.1\demo.core.csproj.CoreCompileInputs.cache
+D:\proj\dotnetcore_small_demo\demo1\demo.core\obj\Debug\netcoreapp3.1\demo.core.dll
+D:\proj\dotnetcore_small_demo\demo1\demo.core\obj\Debug\netcoreapp3.1\demo.core.pdb

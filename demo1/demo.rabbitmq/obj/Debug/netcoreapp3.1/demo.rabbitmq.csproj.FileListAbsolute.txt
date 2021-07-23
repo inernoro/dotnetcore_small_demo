@@ -1,0 +1,12 @@
+D:\proj\dotnetcore_small_demo\demo1\demo.rabbitmq\bin\Debug\netcoreapp3.1\demo.rabbitmq.deps.json
+D:\proj\dotnetcore_small_demo\demo1\demo.rabbitmq\bin\Debug\netcoreapp3.1\demo.rabbitmq.dll
+D:\proj\dotnetcore_small_demo\demo1\demo.rabbitmq\bin\Debug\netcoreapp3.1\demo.rabbitmq.pdb
+D:\proj\dotnetcore_small_demo\demo1\demo.rabbitmq\bin\Debug\netcoreapp3.1\demo.core.dll
+D:\proj\dotnetcore_small_demo\demo1\demo.rabbitmq\bin\Debug\netcoreapp3.1\demo.core.pdb
+D:\proj\dotnetcore_small_demo\demo1\demo.rabbitmq\obj\Debug\netcoreapp3.1\demo.rabbitmq.csproj.AssemblyReference.cache
+D:\proj\dotnetcore_small_demo\demo1\demo.rabbitmq\obj\Debug\netcoreapp3.1\demo.rabbitmq.AssemblyInfoInputs.cache
+D:\proj\dotnetcore_small_demo\demo1\demo.rabbitmq\obj\Debug\netcoreapp3.1\demo.rabbitmq.AssemblyInfo.cs
+D:\proj\dotnetcore_small_demo\demo1\demo.rabbitmq\obj\Debug\netcoreapp3.1\demo.rabbitmq.csproj.CoreCompileInputs.cache
+D:\proj\dotnetcore_small_demo\demo1\demo.rabbitmq\obj\Debug\netcoreapp3.1\demo.rabbitmq.csproj.CopyComplete
+D:\proj\dotnetcore_small_demo\demo1\demo.rabbitmq\obj\Debug\netcoreapp3.1\demo.rabbitmq.dll
+D:\proj\dotnetcore_small_demo\demo1\demo.rabbitmq\obj\Debug\netcoreapp3.1\demo.rabbitmq.pdb
